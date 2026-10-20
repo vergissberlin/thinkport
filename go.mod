@@ -1,10 +1,10 @@
 module github.com/vergissberlin/thinkport
 
-go 1.20
+go 1.23
 
 require (
 	github.com/fatih/color v1.18.0
-	github.com/rodaine/table v1.3.0
+	github.com/rodaine/table v1.4.1
 	github.com/savioxavier/termlink v1.4.1
 	github.com/spf13/cobra v1.9.1
 )
